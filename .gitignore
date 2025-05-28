@@ -1,0 +1,18 @@
+# Dossiers à ignorer
+__pycache__/
+.vscode/
+NER_sample/
+
+# Fichiers temporaires ou locaux
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Fichiers de config ou sensibles
+.env
+*.env
+*.secret
+all_named_entities.json
